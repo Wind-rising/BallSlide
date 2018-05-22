@@ -1,0 +1,10 @@
+{
+	"skins": {
+		"eui.TextInput": "resource/eui_skins/TextInputSkin.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/skin_BallSlideGame.exml"
+	],
+	"path": "resource/default.thm.json"
+}
