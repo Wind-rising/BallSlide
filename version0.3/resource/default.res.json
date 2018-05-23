@@ -1,0 +1,45 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,Background_png,BlackHole_png,Earth_png,Earth2_png,sanjiao_png,Stick_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/Game/Background.png",
+			"type": "image",
+			"name": "Background_png"
+		},
+		{
+			"url": "assets/Game/BlackHole.png",
+			"type": "image",
+			"name": "BlackHole_png"
+		},
+		{
+			"url": "assets/Game/Earth.png",
+			"type": "image",
+			"name": "Earth_png"
+		},
+		{
+			"url": "assets/Game/Earth2.png",
+			"type": "image",
+			"name": "Earth2_png"
+		},
+		{
+			"url": "assets/Game/sanjiao.png",
+			"type": "image",
+			"name": "sanjiao_png"
+		},
+		{
+			"url": "assets/Game/Stick.png",
+			"type": "image",
+			"name": "Stick_png"
+		}
+	]
+}

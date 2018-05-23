@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skin_BallSlideGame" width="640" height="1136" xmlns:e="http://ns.egret.com/eui">
+<e:Image source="Background_png" horizontalCenter="0" verticalCenter="0" width="640" height="1136"/>
+</e:Skin>
