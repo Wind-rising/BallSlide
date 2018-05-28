@@ -12,7 +12,7 @@
 	],
 	"game": [
 		"bin-debug/_UI/UIBaseMenu.js",
-		"bin-debug/LoadingUI.js",
+		"bin-debug/_Module/Effect.js",
 		"bin-debug/Main.js",
 		"bin-debug/Platform.js",
 		"bin-debug/ThemeAdapter.js",
@@ -20,14 +20,15 @@
 		"bin-debug/_Game/GameOBJ.js",
 		"bin-debug/_Module/Adapt.js",
 		"bin-debug/_Module/ConfigData.js",
-		"bin-debug/_UI/UICenter.js",
+		"bin-debug/LoadingUI.js",
 		"bin-debug/_Module/SoundCenter.js",
+		"bin-debug/_Module/StartUp.js",
 		"bin-debug/_Net/BaseWSocket.js",
 		"bin-debug/_Net/SocketManager.js",
 		"bin-debug/_Net/ZPacket.js",
 		"bin-debug/_UI/GameMain.js",
 		"bin-debug/_UI/MainMenu.js",
 		"bin-debug/AssetAdapter.js",
-		"bin-debug/_Module/Effect.js"
+		"bin-debug/_UI/UICenter.js"
 	]
 }
